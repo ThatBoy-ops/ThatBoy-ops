@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me
 - [LinkedIn](https://linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Your Website or Blog](https://yourwebsite.com)
+- [Twitter](https://x.com/ThatboyOps)
+<!--- - [Your Website or Blog](https://yourwebsite.com) --->
 
 ## Languages and Tools
 
@@ -32,10 +32,11 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 
-## GitHub Stats
+<!--- ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+--->
