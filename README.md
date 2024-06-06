@@ -5,27 +5,21 @@
 
 I'm a [Your Role] with experience in [Your Skills]. I enjoy working on [Types of Projects You Like].
 
-- 👀 I’m interested in everything tech
-- 🌱 I’m currently learning Web 3
-- 💞️ I’m looking to collaborate on projects on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **an AI-powered chatbot** that can assist with mental health by providing supportive conversations and resources. I'm also developing **a personal finance app** to help users manage their budgets and investments more effectively.
+- 🌱 I’m currently learning **Web 3** to enhance my API development skills and **Docker** to streamline deployment processes. Exploring the depths of **machine learning** and **data visualization** has also been on my radar lately.
+- 👯 I’m looking to collaborate on **open-source projects** related to **AI**, **data science**, and **web development**. If you have a project that aligns with these areas, I'd love to contribute!
+- 🤔 I’m looking for help with **optimizing my AI chatbot** for better natural language understanding and user engagement. Any tips or collaboration offers are welcome!
+- 💬 Ask me about **JavaScript**, **Python**, **React**, **PHP**, **Node.js**, or **machine learning**. I'm always excited to share knowledge and discuss new ideas.
+- 📫 How to reach me: thatboy.ops@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**.
+
 
 <!---
 ThatBoy-ops/ThatBoy-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Connect with me
 - [LinkedIn](https://linkedin.com/in/your-linkedin)
