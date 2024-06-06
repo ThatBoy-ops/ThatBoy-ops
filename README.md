@@ -1,9 +1,9 @@
  # Hi there, I’m @ThatBoy-ops 👋
- ![Profile views](https://gpvc.arturio.dev/@ThatBoy-ops)
+ ![Profile views](https://gpvc.arturio.dev/ThatBoy-ops)
 
  ## About Me
 
-I'm a [Your Role] with experience in [Your Skills]. I enjoy working on [Types of Projects You Like].
+I'm a Full-Stack Developer with experience in JavaScript, Python, React, Node.js, and PHP. I enjoy working on innovative web applications, AI-driven projects, and scalable backend systems.
 
 - 🔭 I’m currently working on **an AI-powered chatbot** that can assist with mental health by providing supportive conversations and resources. I'm also developing **a personal finance app** to help users manage their budgets and investments more effectively.
 - 🌱 I’m currently learning **Web 3** to enhance my API development skills and **Docker** to streamline deployment processes. Exploring the depths of **machine learning** and **data visualization** has also been on my radar lately.
