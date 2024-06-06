@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 <!--- ## GitHub Stats
 
