@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Connect with me
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+<!--- - [LinkedIn](https://linkedin.com/in/your-linkedin) --->
 - [Twitter](https://x.com/ThatboyOps)
 <!--- - [Your Website or Blog](https://yourwebsite.com) --->
 
