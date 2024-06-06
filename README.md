@@ -11,7 +11,6 @@ I'm a [Your Role] with experience in [Your Skills]. I enjoy working on [Types of
 - 🤔 I’m looking for help with **optimizing my AI chatbot** for better natural language understanding and user engagement. Any tips or collaboration offers are welcome!
 - 💬 Ask me about **JavaScript**, **Python**, **React**, **PHP**, **Node.js**, or **machine learning**. I'm always excited to share knowledge and discuss new ideas.
 - 📫 How to reach me: thatboy.ops@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**.
 
 
@@ -32,7 +31,6 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-<!-- Add more badges for the tools and languages you use -->
 
 ## GitHub Stats
 
