@@ -6,7 +6,7 @@
 I'm a Full-Stack Developer with experience in JavaScript, Python, React, Node.js, and PHP. I enjoy working on innovative web applications, AI-driven projects, and scalable backend systems.
 
 - 🔭 I’m currently working on **an AI-powered chatbot** that can assist with mental health by providing supportive conversations and resources. I'm also developing **a personal finance app** to help users manage their budgets and investments more effectively.
-- 🌱 I’m currently learning **Web 3** to enhance my API development skills and **Docker** to streamline deployment processes. Exploring the depths of **machine learning** and **data visualization** has also been on my radar lately.
+- 🌱 I’m currently learning **Web 3**.
 - 👯 I’m looking to collaborate on **open-source projects** related to **AI**, **data science**, and **web development**. If you have a project that aligns with these areas, I'd love to contribute!
 - 🤔 I’m looking for help with **optimizing my AI chatbot** for better natural language understanding and user engagement. Any tips or collaboration offers are welcome!
 - 💬 Ask me about **JavaScript**, **Python**, **React**, **PHP**, **Node.js**, or **machine learning**. I'm always excited to share knowledge and discuss new ideas.
